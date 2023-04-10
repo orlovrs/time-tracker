@@ -1,5 +1,8 @@
 # my-project
 
+## Just a simple web application for demo
+See the demo here: https://orlovrs.github.io/time-tracker/
+
 ## Project setup
 ```
 npm install
