@@ -36,6 +36,7 @@
     },
     methods: {
       createTask() {
+        console.log(this.plannedDate);
         this.$emit("new-task", {
           name: this.name,
           status: 'waiting',
